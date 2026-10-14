@@ -1,1 +1,1 @@
-# weather
+'[ATTHSC/api] GET /scenarios response', '{\n  "scenarios": [\n    {\n      "voiceId": null,\n      "timeLimitSeconds": 300,\n      "scenarioKey": "billing_plan_review",\n      "purpose": "A customer arrives with a billing question. The Expert reviews the plan and looks for ways to consolidate services, simplify the account, and improve monthly value.",\n      "minExchanges": 3,\n      "maxTurns": 30,\n      "displayName": "Billing / Plan Review"\n    }\n  ],\n  "error": null\n}'
