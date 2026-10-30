@@ -1,1 +1,10 @@
-'[ATTHSC/api] GET /scenarios response', '{\n  "scenarios": [\n    {\n      "voiceId": null,\n      "timeLimitSeconds": 300,\n      "scenarioKey": "billing_plan_review",\n      "purpose": "A customer arrives with a billing question. The Expert reviews the plan and looks for ways to consolidate services, simplify the account, and improve monthly value.",\n      "minExchanges": 3,\n      "maxTurns": 30,\n      "displayName": "Billing / Plan Review"\n    }\n  ],\n  "error": null\n}'
+Class	Test class
+RN_AgExp_BriefingActionLLMFree	RN_AgExp_BriefingActionLLMFreeTest
+RN_AgExp_BriefingRetrievalLLMFree	RN_AgExp_BriefingRetrievalLLMFreeTest
+RN_AgExp_BriefingCardBuilderLLMFree	RN_AgExp_BriefingCardBuilderLLMFreeTest
+RN_AgExp_BriefingCardInputLLMFree	covered by the tests above
+RN_AgExp_BriefingAvailGraphLLMFree	RN_AgExp_BriefingAvailGraphLLMFreeTest
+RN_AgExp_BriefingAvailApiLLMFree	RN_AgExp_BriefingAvailApiLLMFreeTest
+RN_AgExp_BriefingOfferNormLLMFree	RN_AgExp_BriefingOfferNormLLMFreeTest
+2. Shared (Updated)
+RN_AgExp_SafeTelemetry and RN_AgExp_SafeTelemetryTest.
